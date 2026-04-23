@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jobin</string>
+    <string name="tile_volume_up">Volume Up</string>
+    <string name="tile_volume_down">Volume Down</string>
+    <string name="tile_volume_panel">Volume Panel</string>
+    <string name="tile_power_menu">Power Menu</string>
+    <string name="accessibility_service_label">Jobin Power Menu Actions</string>
+    <string name="accessibility_service_description">This service allows Jobin to open the system power menu from Quick Settings. It does not read your screen or collect any data.</string>
+    <string name="setup_title">Jobin Setup</string>
+    <string name="setup_desc_not_granted">Jobin requires Accessibility permission to open the Power Menu from Quick Settings. Without this, the Power Menu tile will not work.</string>
+    <string name="setup_desc_granted">Accessibility permission is granted! You can now use the Power Menu tile from Quick Settings.</string>
+    <string name="btn_grant_permission">Grant Permission</string>
+    <string name="btn_hide_app_icon">Hide App Icon</string>
+    <string name="hide_icon_desc">You can hide the Jobin app icon from your launcher to keep it clean. The Quick Settings tiles will remain available.</string>
+    <string name="icon_hidden_toast">App icon hidden from launcher</string>
+</resources>
