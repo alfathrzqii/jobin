@@ -1,6 +1,6 @@
 # 🧱 Jobin: Solusi Praktis untuk Tombol Rusak
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/build.yml?branch=main)](https://github.com/USERNAME/REPO/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/alfathrzqii/jobin/android.yml?branch=main)](https://github.com/USERNAME/REPO/actions)
 
 **Jobin** adalah aplikasi Android super ringan yang berjalan di latar belakang (tanpa antarmuka pengguna yang rumit) untuk menyediakan tombol pintas di _Quick Settings Tiles_ (Pusat Kontrol).
 
